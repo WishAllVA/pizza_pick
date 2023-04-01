@@ -90,7 +90,7 @@ function Main({ name, restaurant }) {
                 src={currentPizza}
                 alt={"Pizza"}
                 className="topping-image"
-                style={{ zIndex: 1, width: '400px', top: '-2%' }}
+                style={{ zIndex: 1, width: '250px', top: '-2%', left: '10%' }}
             />
         </div>
         <div className="toppings-selector">
